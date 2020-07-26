@@ -1,6 +1,7 @@
-# React Native Realm DB
+# React Native Realm DB (2019)
 
-:iphone: React Native application using the Github and RealmDB API for offline storage
+:iphone: React Native application using the Github and RealmDB API for offline storage]
+- Based on the study of the [Rocketseat video](https://www.youtube.com/watch?v=y5Hv7pMA1uo&t=1066s)
 
 ###
 
